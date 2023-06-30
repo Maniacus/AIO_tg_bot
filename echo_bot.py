@@ -5,7 +5,7 @@ from aiogram.types import Message
 from aiogram.client.session.aiohttp import AiohttpSession
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота, полученный у @BotFather
-API_TOKEN: str = '6294776237:AAEQLWQUSq9dS9Zq-DS4nYiphKR12xHb7Ds'
+API_TOKEN: str = ''
 
 session = AiohttpSession(proxy="http://10.26.145.5:8080/")
 #bot = Bot('42:token', session=session)
