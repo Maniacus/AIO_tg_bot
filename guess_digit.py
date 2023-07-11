@@ -5,6 +5,8 @@ from aiogram.types import Message
 from aiogram.filters import Text, Command
 
 from aiogram.client.session.aiohttp import AiohttpSession
+from aiogram.filters import BaseFilter
+
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота,
 # полученный у @BotFather

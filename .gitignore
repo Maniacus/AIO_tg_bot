@@ -1,1 +1,4 @@
 .vscode/
+temp.py
+.env
+.config_data/.env
